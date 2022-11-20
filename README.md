@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Beato029
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Beato029/Beato029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PyRAT è un software che offre la possibilità di creare una connessione server/client con un altro pc sulla stessa connessione o non, offrendo la possibilità di ricevere e inviare comandi/informazioni.
+Questo software è stato creato per divertimento non mi assumo nessuna responsabilità per danni o ripercussioni legali.
+Buon divertimento :)
