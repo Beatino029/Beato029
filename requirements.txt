@@ -1,0 +1,10 @@
+getpass
+socket
+webbrowser
+datetime
+colorama
+platform
+os
+geocoder
+requests
+tkinter
