@@ -1,3 +1,5 @@
+IN FUTURO VERRA' CREATA LA VERSIONE PER LINUX
+
 STEP 1
 ![1](https://user-images.githubusercontent.com/110353679/211626112-eb172422-ac7e-4164-bc50-dd587931e16b.png)
 Questo è il primo passaggio, è un passaggio che viene eseguito automaticamente dal programma all' apertura,
